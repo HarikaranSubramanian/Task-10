@@ -18,5 +18,12 @@ Simply open the `index.html` file in a web browser to see the countdown in actio
 The background color and styling of the countdown are based on the colors of the Indian flag.
 
 
+## Deployment
+
+This project is deployed on Netlify. You can view it live [here](https://netlify-countdown.netlify.app/).
+
+Feel free to modify and customize the code as needed.
+
+
 
 Happy coding!
